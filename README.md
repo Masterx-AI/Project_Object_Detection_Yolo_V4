@@ -1,6 +1,6 @@
 # Project_Object_Detection_Yolo_V4
 
-![]()
+![](https://raw.githubusercontent.com/Masterx-AI/Project_Object_Detection_Yolo_V4/main/result.jpg)
 
 ### Description:
 
